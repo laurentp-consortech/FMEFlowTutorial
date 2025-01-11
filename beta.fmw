@@ -1,0 +1,225 @@
+#! <?xml version="1.0" encoding="UTF-8" ?>
+#! <WORKSPACE
+#    Command line to run this workspace:
+#        "C:\Program Files\FME\2023.1\fme.exe" C:\Users\laurentp\DEMO_GIT\FMEFlow\beta.fmw
+#          --FME_LAUNCH_VIEWER_APP "YES"
+#    
+#!   A0_PREVIEW_IMAGE="data:image/png;base64,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"
+#!   ARCGIS_COMPATIBILITY="ARCGIS_AUTO"
+#!   ATTR_TYPE_ENCODING="SDF"
+#!   BEGIN_PYTHON=""
+#!   BEGIN_TCL=""
+#!   CATEGORY=""
+#!   DESCRIPTION=""
+#!   DESTINATION="NONE"
+#!   DESTINATION_ROUTING_FILE=""
+#!   DOC_EXTENTS="1467.51 486.629"
+#!   DOC_TOP_LEFT="890.634 -1333.51"
+#!   END_PYTHON=""
+#!   END_TCL=""
+#!   EXPLICIT_BOOKMARK_ORDER="false"
+#!   FME_BUILD_NUM="23619"
+#!   FME_BULK_MODE_THRESHOLD="2000"
+#!   FME_DOCUMENT_GUID="acb000cc-a0eb-4e81-9773-4a673e5d2112"
+#!   FME_DOCUMENT_PRIORGUID=""
+#!   FME_GEOMETRY_HANDLING="Enhanced"
+#!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
+#!   FME_NAMES_ENCODING="UTF-8"
+#!   FME_REPROJECTION_ENGINE="FME"
+#!   FME_SERVER_SERVICES=""
+#!   FME_STROKE_MAX_DEVIATION="0"
+#!   HISTORY=""
+#!   IGNORE_READER_FAILURE="No"
+#!   LAST_SAVE_BUILD="FME(R) 2023.1.0.0 (20230825 - Build 23619 - WIN64)"
+#!   LAST_SAVE_DATE="2025-01-11T17:02:17"
+#!   LOG_FILE=""
+#!   LOG_MAX_RECORDED_FEATURES="200"
+#!   MARKDOWN_DESCRIPTION=""
+#!   MARKDOWN_USAGE=""
+#!   MAX_LOG_FEATURES="200"
+#!   MULTI_WRITER_DATASET_ORDER="BY_ID"
+#!   PASSWORD=""
+#!   PYTHON_COMPATIBILITY="38"
+#!   REDIRECT_TERMINATORS="NONE"
+#!   SAVE_ON_PROMPT_AND_RUN="Yes"
+#!   SHOW_ANNOTATIONS="true"
+#!   SHOW_INFO_NODES="true"
+#!   SOURCE="NONE"
+#!   SOURCE_ROUTING_FILE=""
+#!   TERMINATE_REJECTED="YES"
+#!   TITLE=""
+#!   USAGE=""
+#!   USE_MARKDOWN=""
+#!   VIEW_POSITION="0 0"
+#!   WARN_INVALID_XFORM_PARAM="Yes"
+#!   WORKSPACE_VERSION="1"
+#!   ZOOM_SCALE="100"
+#! >
+#! <DATASETS>
+#! </DATASETS>
+#! <DATA_TYPES>
+#! </DATA_TYPES>
+#! <GEOM_TYPES>
+#! </GEOM_TYPES>
+#! <FEATURE_TYPES>
+#! </FEATURE_TYPES>
+#! <FMESERVER>
+#! <CONNECTIONS>
+#! <CONNECTION
+#!   NAME="BD_DEV"
+#!   TYPE="DATABASE"
+#!   FAMILY=""
+#!   USAGE="MIXED"
+#! />
+#! </CONNECTIONS>
+#! </FMESERVER>
+#! <GLOBAL_PARAMETERS>
+#! </GLOBAL_PARAMETERS>
+#! <USER_PARAMETERS
+#!   FORM="eyJwYXJhbWV0ZXJzIjpbXX0="
+#! >
+#! <PARAMETER_INFO>
+#! </PARAMETER_INFO>
+#! </USER_PARAMETERS>
+#! <COMMENTS>
+#! </COMMENTS>
+#! <CONSTANTS>
+#! </CONSTANTS>
+#! <BOOKMARKS>
+#! </BOOKMARKS>
+#! <TRANSFORMERS>
+#! <TRANSFORMER
+#!   IDENTIFIER="2"
+#!   TYPE="Creator"
+#!   VERSION="6"
+#!   POSITION="890.6339063390634 -846.8834688346883"
+#!   BOUNDING_RECT="890.6339063390634 -846.8834688346883 430 71"
+#!   ORDER="500000000000001"
+#!   PARMS_EDITED="false"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23619"
+#! >
+#!     <OUTPUT_FEAT NAME="CREATED"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="ATEND" PARM_VALUE="no"/>
+#!     <XFORM_PARM PARM_NAME="COORDS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="COORDSYS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="CRE_ATTR" PARM_VALUE="_creation_instance"/>
+#!     <XFORM_PARM PARM_NAME="GEOM" PARM_VALUE="&lt;lt&gt;?xml&lt;space&gt;version=&lt;quote&gt;1.0&lt;quote&gt;&lt;space&gt;encoding=&lt;quote&gt;US_ASCII&lt;quote&gt;&lt;space&gt;standalone=&lt;quote&gt;no&lt;quote&gt;&lt;space&gt;?&lt;gt&gt;&lt;lt&gt;geometry&lt;space&gt;dimension=&lt;quote&gt;2&lt;quote&gt;&lt;gt&gt;&lt;lt&gt;null&lt;solidus&gt;&lt;gt&gt;&lt;lt&gt;&lt;solidus&gt;geometry&lt;gt&gt;"/>
+#!     <XFORM_PARM PARM_NAME="GEOMTYPE" PARM_VALUE="Geometry Object"/>
+#!     <XFORM_PARM PARM_NAME="NUM" PARM_VALUE="1"/>
+#!     <XFORM_PARM PARM_NAME="OAN_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Creator"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="3"
+#!   TYPE="Creator"
+#!   VERSION="6"
+#!   POSITION="1928.1442814428144 -1262.5126251262514"
+#!   BOUNDING_RECT="1928.1442814428144 -1262.5126251262514 430 71"
+#!   ORDER="500000000000002"
+#!   PARMS_EDITED="false"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23619"
+#! >
+#!     <OUTPUT_FEAT NAME="CREATED"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="ATEND" PARM_VALUE="no"/>
+#!     <XFORM_PARM PARM_NAME="COORDS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="COORDSYS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="CRE_ATTR" PARM_VALUE="_creation_instance"/>
+#!     <XFORM_PARM PARM_NAME="GEOM" PARM_VALUE="&lt;lt&gt;?xml&lt;space&gt;version=&lt;quote&gt;1.0&lt;quote&gt;&lt;space&gt;encoding=&lt;quote&gt;US_ASCII&lt;quote&gt;&lt;space&gt;standalone=&lt;quote&gt;no&lt;quote&gt;&lt;space&gt;?&lt;gt&gt;&lt;lt&gt;geometry&lt;space&gt;dimension=&lt;quote&gt;2&lt;quote&gt;&lt;gt&gt;&lt;lt&gt;null&lt;solidus&gt;&lt;gt&gt;&lt;lt&gt;&lt;solidus&gt;geometry&lt;gt&gt;"/>
+#!     <XFORM_PARM PARM_NAME="GEOMTYPE" PARM_VALUE="Geometry Object"/>
+#!     <XFORM_PARM PARM_NAME="NUM" PARM_VALUE="1"/>
+#!     <XFORM_PARM PARM_NAME="OAN_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Creator_2"/>
+#! </TRANSFORMER>
+#! </TRANSFORMERS>
+#! <FEAT_LINKS>
+#! </FEAT_LINKS>
+#! <BREAKPOINTS>
+#! </BREAKPOINTS>
+#! <ATTR_LINKS>
+#! </ATTR_LINKS>
+#! <SUBDOCUMENTS>
+#! </SUBDOCUMENTS>
+#! <LOOKUP_TABLES>
+#! </LOOKUP_TABLES>
+#! </WORKSPACE>
+
+FME_PYTHON_VERSION 38
+ARCGIS_COMPATIBILITY ARCGIS_AUTO
+#! START_HEADER
+#! START_WB_HEADER
+READER_TYPE MULTI_READER
+WRITER_TYPE MULTI_WRITER
+WRITER_KEYWORD MULTI_DEST
+MULTI_DEST_DATASET null
+#! END_WB_HEADER
+#! START_WB_HEADER
+#! END_WB_HEADER
+#! END_HEADER
+
+LOG_FILENAME "$(FME_MF_DIR)beta.log"
+LOG_APPEND YES
+LOG_TIMINGS YES
+LOG_FILTER_MASK -1
+LOG_MAX_FEATURES 200
+LOG_MAX_RECORDED_FEATURES 200
+FME_REPROJECTION_ENGINE FME
+FME_IMPLICIT_CSMAP_REPROJECTION_MODE Auto
+FME_GEOMETRY_HANDLING Enhanced
+FME_STROKE_MAX_DEVIATION 0
+FME_NAMES_ENCODING UTF-8
+FME_BULK_MODE_THRESHOLD 2000
+LAST_SAVE_BUILD "FME 2023.1.0.0 (20230825 - Build 23619 - WIN64)"
+# -------------------------------------------------------------------------
+
+MULTI_READER_CONTINUE_ON_READER_FAILURE No
+
+# -------------------------------------------------------------------------
+
+MACRO WORKSPACE_NAME beta
+MACRO FME_VIEWER_APP fmedatainspector
+DEFAULT_MACRO WB_CURRENT_CONTEXT
+# -------------------------------------------------------------------------
+Tcl2 proc Creator_CoordSysRemover {} {   global FME_CoordSys;   set FME_CoordSys {}; }
+MACRO Creator_XML     NOT_ACTIVATED
+MACRO Creator_CLASSIC NOT_ACTIVATED
+MACRO Creator_2D3D    2D_GEOMETRY
+MACRO Creator_COORDS  <Unused>
+INCLUDE [ if { {Geometry Object} == {Geometry Object} } {            puts {MACRO Creator_XML *} } ]
+INCLUDE [ if { {Geometry Object} == {2D Coordinate List} } {            puts {MACRO Creator_2D3D 2D_GEOMETRY};            puts {MACRO Creator_CLASSIC *} } ]
+INCLUDE [ if { {Geometry Object} == {3D Coordinate List} } {            puts {MACRO Creator_2D3D 3D_GEOMETRY};            puts {MACRO Creator_CLASSIC *} } ]
+INCLUDE [ if { {Geometry Object} == {2D Min/Max Box} } {            set comment {                We need to turn the COORDS which are                    minX minY maxX maxY                into a full polygon list of coordinates            };            set splitCoords [split [string trim {<Unused>}]];            if { [llength $splitCoords] > 4} {               set trimmedCoords {};               foreach item $splitCoords { if { $item != {} } {lappend trimmedCoords $item} };               set splitCoords $trimmedCoords;            };            if { [llength $splitCoords] != 4 } {                error {Creator: Coordinate list is expected to be a space delimited list of four numbers as 'minx miny maxx maxy' - `<Unused>' is invalid};            };            set minX [lindex $splitCoords 0];            set minY [lindex $splitCoords 1];            set maxX [lindex $splitCoords 2];            set maxY [lindex $splitCoords 3];            puts "MACRO Creator_COORDS $minX $minY $minX $maxY $maxX $maxY $maxX $minY $minX $minY";            puts {MACRO Creator_2D3D 2D_GEOMETRY};            puts {MACRO Creator_CLASSIC *} } ]
+FACTORY_DEF {$(Creator_XML)} CreationFactory    FACTORY_NAME { Creator_XML_Creator }    CREATE_AT_END { no }    OUTPUT { FEATURE_TYPE _____CREATED______        @Geometry(FROM_ENCODED_STRING,<lt>?xml<space>version=<quote>1.0<quote><space>encoding=<quote>US_ASCII<quote><space>standalone=<quote>no<quote><space>?<gt><lt>geometry<space>dimension=<quote>2<quote><gt><lt>null<solidus><gt><lt><solidus>geometry<gt>) }
+FACTORY_DEF {$(Creator_CLASSIC)} CreationFactory    FACTORY_NAME { Creator_CLASSIC_Creator }    $(Creator_2D3D) { $(Creator_COORDS) }    CREATE_AT_END { no }    OUTPUT { FEATURE_TYPE _____CREATED______ }
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME { Creator_Cloner }    INPUT FEATURE_TYPE _____CREATED______        @Tcl2(Creator_CoordSysRemover)        @CoordSys()    NUMBER_OF_COPIES { 1 }    COPY_NUMBER_ATTRIBUTE { "_creation_instance" }
+# -------------------------------------------------------------------------
+Tcl2 proc Creator_2_CoordSysRemover {} {   global FME_CoordSys;   set FME_CoordSys {}; }
+MACRO Creator_2_XML     NOT_ACTIVATED
+MACRO Creator_2_CLASSIC NOT_ACTIVATED
+MACRO Creator_2_2D3D    2D_GEOMETRY
+MACRO Creator_2_COORDS  <Unused>
+INCLUDE [ if { {Geometry Object} == {Geometry Object} } {            puts {MACRO Creator_2_XML *} } ]
+INCLUDE [ if { {Geometry Object} == {2D Coordinate List} } {            puts {MACRO Creator_2_2D3D 2D_GEOMETRY};            puts {MACRO Creator_2_CLASSIC *} } ]
+INCLUDE [ if { {Geometry Object} == {3D Coordinate List} } {            puts {MACRO Creator_2_2D3D 3D_GEOMETRY};            puts {MACRO Creator_2_CLASSIC *} } ]
+INCLUDE [ if { {Geometry Object} == {2D Min/Max Box} } {            set comment {                We need to turn the COORDS which are                    minX minY maxX maxY                into a full polygon list of coordinates            };            set splitCoords [split [string trim {<Unused>}]];            if { [llength $splitCoords] > 4} {               set trimmedCoords {};               foreach item $splitCoords { if { $item != {} } {lappend trimmedCoords $item} };               set splitCoords $trimmedCoords;            };            if { [llength $splitCoords] != 4 } {                error {Creator_2: Coordinate list is expected to be a space delimited list of four numbers as 'minx miny maxx maxy' - `<Unused>' is invalid};            };            set minX [lindex $splitCoords 0];            set minY [lindex $splitCoords 1];            set maxX [lindex $splitCoords 2];            set maxY [lindex $splitCoords 3];            puts "MACRO Creator_2_COORDS $minX $minY $minX $maxY $maxX $maxY $maxX $minY $minX $minY";            puts {MACRO Creator_2_2D3D 2D_GEOMETRY};            puts {MACRO Creator_2_CLASSIC *} } ]
+FACTORY_DEF {$(Creator_2_XML)} CreationFactory    FACTORY_NAME { Creator_2_XML_Creator }    CREATE_AT_END { no }    OUTPUT { FEATURE_TYPE _____CREATED______        @Geometry(FROM_ENCODED_STRING,<lt>?xml<space>version=<quote>1.0<quote><space>encoding=<quote>US_ASCII<quote><space>standalone=<quote>no<quote><space>?<gt><lt>geometry<space>dimension=<quote>2<quote><gt><lt>null<solidus><gt><lt><solidus>geometry<gt>) }
+FACTORY_DEF {$(Creator_2_CLASSIC)} CreationFactory    FACTORY_NAME { Creator_2_CLASSIC_Creator }    $(Creator_2_2D3D) { $(Creator_2_COORDS) }    CREATE_AT_END { no }    OUTPUT { FEATURE_TYPE _____CREATED______ }
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME { Creator_2_Cloner }    INPUT FEATURE_TYPE _____CREATED______        @Tcl2(Creator_2_CoordSysRemover)        @CoordSys()    NUMBER_OF_COPIES { 1 }    COPY_NUMBER_ATTRIBUTE { "_creation_instance" }
+# -------------------------------------------------------------------------
+FACTORY_DEF * TeeFactory   FACTORY_NAME "$(WB_CURRENT_CONTEXT)_CREATOR_BRANCH_TARGET"   INPUT FEATURE_TYPE *  OUTPUT FEATURE_TYPE *
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *   FEATURE_TYPE_ATTRIBUTE __wb_out_feat_type__   OUTPUT ROUTED FEATURE_TYPE *    OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TeeFactory   FACTORY_NAME "Final Output Nuker"   INPUT FEATURE_TYPE __nuke_me__
+
